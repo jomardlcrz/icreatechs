@@ -1,14 +1,34 @@
-Identify the main components of a computer system
+# Identify the main components of a computer system
 
-There are 7 components of a computer
+# There are 7 components of a computer
 
-Simple
+# Simple
 Case - This is where you stores everything (motherboard,ram,ssd,hdd,power supply, etc.)
 Power Supply - Is a advance ac adapter where it provides all the components electricity needed to their thing.
 Motherboard - The motherboard is a wide flat circuit board where you put or plug in other components to communicate each other.
 
-Main (Complex)
+# Main (Complex)
 CPU(Central Processing Unit) - CPU is a processor that doing everything on your computer including running applications, doing calculations etc. Basically it is a Brain of the computer.
 RAM(Random Access Memory) - RAM is another form or storage or temporary storage where the data is In/Out at fast access opposite to HDD.
 Hard Disk Drive - This is where you put data permanently or called data storage at slow access.
 Graphics card or GPU(Graphics Processing Unit) - Figures out how's it all supposed to look like in your monitor.
+
+
+# Difference between RAM and storage
+RAM(Random Access Memory) - RAM is where run an application
+Hard Disk Drive - HDD is where you put or store application
+
+# Describe how the CPU processes instructions
+CPU processing instructions through the cycle of fetching, decoding and executing instructions.
+
+# List common computer peripherals and their functions
+
+Input Devices
+Keyboard - used for entering text and data to the computer
+Mouse - used for pointing, clicking, and navigating the GUI or Graphical User Interface
+Microphone - Capturing audio input for recording and communication
+
+Output Devices
+Monitor - Display visual output of the computer
+Printer - Produces physical copy of text and images
+Speaker - Produces output audio from computer
