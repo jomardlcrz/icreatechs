@@ -1,0 +1,23 @@
+# Create a diagram of a computer system showing how the main components connect and interact with each other.
+
+Key Connections & Interactions:
+1. CPU (Central Processing Unit):
+   - Connected directly to the Northbridge (or directly to RAM in modern systems with integrated memory controllers).
+   - Executes instructions and processes data.
+
+2. Northbridge (Memory Controller Hub):
+   - Connects the CPU to high-speed components like RAM and GPU (though modern GPUs often connect via PCIe directly to the CPU).
+   - Manages communication between CPU, RAM, and Southbridge.
+
+3. Southbridge (I/O Controller Hub):
+   - Connects to the Northbridge and manages slower peripherals (USB, SATA, Ethernet, etc.).
+   - Connects to storage devices (HDD/SSD) and expansion slots (PCIe, PCI).
+
+4. RAM (Random Access Memory):
+   - Directly accessed by the CPU (via Northbridge) for fast data storage/retrieval.
+
+5. Peripherals:
+   - Input devices (keyboard, mouse) and output devices (monitor, printer) connect via Southbridge (or directly via USB/PCIe).
+
+6. Storage Devices:
+   - HDDs/SSDs connect via SATA or NVMe (directly to CPU or Southbridge).
